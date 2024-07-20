@@ -16,6 +16,7 @@ Danny has provided three key datasets for this case study:
 - `menu`
 - `members`
 
+![Danny's Diner](https://github.com/pranalpatil-pp17/dannys_dinner/blob/main/image.png)
 
 #### Table 1: sales
 The sales table captures all **customer_id** level purchases with an corresponding **order_date** and **product_id** information for when and what menu items were ordered.
