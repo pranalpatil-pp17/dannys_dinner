@@ -27,3 +27,11 @@ The menu table maps the **product_id** to the actual **product_name** and price 
 #### Table 3: members
 The final members table captures the **join_date** when a **customer_id** joined the beta version of the Danny’s Diner loyalty program.
 
+
+## Project Objectives
+
+1. **Analyze customer visiting patterns.**
+2. **Calculate the total money spent by customers.**
+3. **Identify the favorite menu items of the customers.**
+4. **Provide SQL queries for answering Danny's questions.**
+5. **Generate basic datasets for easy inspection.**
